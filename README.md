@@ -13,6 +13,6 @@ The trained model was exported in TensorFlow format for further use in a Python 
 
 - Python Script:
 A Python script was written to:
-- Load the exported model.
-- Accept an image input.
-- Predict the class of the input image using the trained model.
+ Load the exported model.
+ Accept an image input.
+ Predict the class of the input image using the trained model.
