@@ -1,7 +1,7 @@
 # Ai-Task-2
 ## Image Recognition Model using Teachable Machine by Google
 ### Project Overview
-This project involves training an image recognition model using Teachable Machine by Google. The model classifies images into at least two distinct classes. The trained model is then exported in TensorFlow format. A Python script is created to load the model, accept an input image, and predict the class of the image ( flower/ tree ).
+This project involves training an image recognition model using Teachable Machine by Google. The model classifies images into at least two distinct classes ( flower/ tree ). The trained model is then exported in TensorFlow format. A Python script is created to load the model, accept an input image, and predict the class of the image.
 
 ### Steps Taken
 - Training the Model:
